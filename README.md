@@ -87,7 +87,7 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ```
 # OUTPUT:
-![1](https://github.com/Rajkiran276/SocketStudy/assets/147471453/de0a35c9-3a86-4e6c-94d4-587458be9b2d)
+<img width="1920" height="1003" alt="cn out" src="https://github.com/user-attachments/assets/c6db3741-27fd-458d-8e38-c2a3e6eb0837" />
 
 
 ## Result:
